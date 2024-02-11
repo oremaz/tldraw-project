@@ -1,0 +1,52 @@
+{
+  "arch": "x86_64",
+  "build": "20_osx64_openblas",
+  "build_number": 20,
+  "constrains": [
+    "liblapack 3.9.0 20_osx64_openblas",
+    "liblapacke 3.9.0 20_osx64_openblas",
+    "blas * openblas"
+  ],
+  "depends": [
+    "libblas 3.9.0 20_osx64_openblas"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "b324ad206d39ce529fb9073f9d062062",
+  "name": "libcblas",
+  "platform": "osx",
+  "sha256": "b0a4eab6d22b865d9b0e39f358f17438602621709db66b8da159197bedd2c5eb",
+  "size": 14648,
+  "subdir": "osx-64",
+  "timestamp": 1700568722960,
+  "version": "3.9.0",
+  "fn": "libcblas-3.9.0-20_osx64_openblas.conda",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-20_osx64_openblas.conda",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/libcblas-3.9.0-20_osx64_openblas",
+  "files": [
+    "lib/libcblas.3.dylib",
+    "lib/libcblas.dylib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/libcblas.3.dylib",
+        "path_type": "softlink",
+        "sha256": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "sha256_in_prefix": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "size_in_bytes": 69175584
+      },
+      {
+        "_path": "lib/libcblas.dylib",
+        "path_type": "softlink",
+        "sha256": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "sha256_in_prefix": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "size_in_bytes": 69175584
+      }
+    ]
+  },
+  "link": null,
+  "requested_spec": null
+}

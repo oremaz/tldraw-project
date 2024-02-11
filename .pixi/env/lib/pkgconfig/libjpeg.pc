@@ -1,0 +1,10 @@
+prefix=/Users/ethanorel/tldraw-project/.pixi/env
+exec_prefix=/Users/ethanorel/tldraw-project/.pixi/env
+libdir=/Users/ethanorel/tldraw-project/.pixi/env/lib
+includedir=/Users/ethanorel/tldraw-project/.pixi/env/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

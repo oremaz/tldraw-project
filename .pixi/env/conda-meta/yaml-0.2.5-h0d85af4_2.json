@@ -1,0 +1,69 @@
+{
+  "arch": "x86_64",
+  "build": "h0d85af4_2",
+  "build_number": 2,
+  "depends": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "d7e08fcf8259d742156188e8762b4d20",
+  "name": "yaml",
+  "platform": "osx",
+  "sha256": "5301417e2c8dea45b401ffee8df3957d2447d4ce80c83c5ff151fc6bfe1c4148",
+  "size": 84237,
+  "subdir": "osx-64",
+  "timestamp": 1641347062780,
+  "version": "0.2.5",
+  "fn": "yaml-0.2.5-h0d85af4_2.tar.bz2",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/yaml-0.2.5-h0d85af4_2.tar.bz2",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/yaml-0.2.5-h0d85af4_2",
+  "files": [
+    "include/yaml.h",
+    "lib/libyaml-0.2.dylib",
+    "lib/libyaml.a",
+    "lib/libyaml.dylib",
+    "lib/pkgconfig/yaml-0.1.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "include/yaml.h",
+        "path_type": "hardlink",
+        "sha256": "de39c9fc2b2c8584775e6d0dc0f13c8e778ceba47d419cff9d85465ca35d6954",
+        "sha256_in_prefix": "de39c9fc2b2c8584775e6d0dc0f13c8e778ceba47d419cff9d85465ca35d6954",
+        "size_in_bytes": 54439
+      },
+      {
+        "_path": "lib/libyaml-0.2.dylib",
+        "path_type": "hardlink",
+        "sha256": "6088e35049fe08edad2e65830ce1295058fd2d252b3ec283183b7d475d34d5ba",
+        "sha256_in_prefix": "6088e35049fe08edad2e65830ce1295058fd2d252b3ec283183b7d475d34d5ba",
+        "size_in_bytes": 129884
+      },
+      {
+        "_path": "lib/libyaml.a",
+        "path_type": "hardlink",
+        "sha256": "25eda981efef34c26acc45f6cb205482f480cd7b815fe07c9f087b64c878df4a",
+        "sha256_in_prefix": "25eda981efef34c26acc45f6cb205482f480cd7b815fe07c9f087b64c878df4a",
+        "size_in_bytes": 148152
+      },
+      {
+        "_path": "lib/libyaml.dylib",
+        "path_type": "softlink",
+        "sha256": "6088e35049fe08edad2e65830ce1295058fd2d252b3ec283183b7d475d34d5ba",
+        "sha256_in_prefix": "6088e35049fe08edad2e65830ce1295058fd2d252b3ec283183b7d475d34d5ba",
+        "size_in_bytes": 129884
+      },
+      {
+        "_path": "lib/pkgconfig/yaml-0.1.pc",
+        "path_type": "hardlink",
+        "sha256": "b0befe17535b531fa14953881a1535e926627d01be0c51dfe3540069ee53b732",
+        "sha256_in_prefix": "041769f7fc9b7ff17cfcb4be36c76460195929d2c2ef830f424f9056f024acea",
+        "size_in_bytes": 249
+      }
+    ]
+  },
+  "link": null,
+  "requested_spec": null
+}

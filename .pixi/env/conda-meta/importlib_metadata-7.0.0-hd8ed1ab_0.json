@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64",
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "depends": [
+    "importlib-metadata >=7.0.0,<7.0.1.0a0"
+  ],
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "md5": "12aff14f84c337be5e5636bf612f4140",
+  "name": "importlib_metadata",
+  "noarch": "generic",
+  "platform": "osx",
+  "sha256": "b9e8ed41df6c55222e3777f422e77a22a6a19ff779b2e65aa8dfdea792c1f7de",
+  "size": 9534,
+  "subdir": "osx-64",
+  "timestamp": 1701632342298,
+  "version": "7.0.0",
+  "fn": "importlib_metadata-7.0.0-hd8ed1ab_0.conda",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-7.0.0-hd8ed1ab_0.conda",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/importlib_metadata-7.0.0-hd8ed1ab_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": null,
+  "requested_spec": null
+}

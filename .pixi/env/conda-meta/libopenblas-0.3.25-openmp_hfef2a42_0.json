@@ -1,0 +1,52 @@
+{
+  "arch": "x86_64",
+  "build": "openmp_hfef2a42_0",
+  "build_number": 0,
+  "constrains": [
+    "openblas >=0.3.25,<0.3.26.0a0"
+  ],
+  "depends": [
+    "libgfortran 5.*",
+    "libgfortran5 >=12.3.0",
+    "llvm-openmp >=16.0.6"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "md5": "a01b96f00c3155c830d98a518c7dcbfb",
+  "name": "libopenblas",
+  "platform": "osx",
+  "sha256": "9895bccdbaa34958ab7dd1f29de66d1dfb94c551c7bb5a663666a500c67ee93c",
+  "size": 6019426,
+  "subdir": "osx-64",
+  "timestamp": 1700537709900,
+  "version": "0.3.25",
+  "fn": "libopenblas-0.3.25-openmp_hfef2a42_0.conda",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.25-openmp_hfef2a42_0.conda",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/libopenblas-0.3.25-openmp_hfef2a42_0",
+  "files": [
+    "lib/libopenblas.0.dylib",
+    "lib/libopenblasp-r0.3.25.dylib"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/libopenblas.0.dylib",
+        "path_type": "softlink",
+        "sha256": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "sha256_in_prefix": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "size_in_bytes": 69175584
+      },
+      {
+        "_path": "lib/libopenblasp-r0.3.25.dylib",
+        "path_type": "hardlink",
+        "sha256": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "sha256_in_prefix": "2ada7fd58757f3792991e2ac22dfba0160ecfc69afcd05fe5e89e2004db1e5f7",
+        "size_in_bytes": 69175584
+      }
+    ]
+  },
+  "link": null,
+  "requested_spec": null
+}

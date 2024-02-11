@@ -1,0 +1,69 @@
+{
+  "arch": "x86_64",
+  "build": "h0dc2134_0",
+  "build_number": 0,
+  "depends": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "9566b4c29274125b0266d0177b5eb97b",
+  "name": "xorg-libxau",
+  "platform": "osx",
+  "sha256": "8a2e398c4f06f10c64e69f56bcf3ddfa30b432201446a0893505e735b346619a",
+  "size": 13071,
+  "subdir": "osx-64",
+  "timestamp": 1684638167647,
+  "version": "1.0.11",
+  "fn": "xorg-libxau-1.0.11-h0dc2134_0.conda",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/xorg-libxau-1.0.11-h0dc2134_0.conda",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/xorg-libxau-1.0.11-h0dc2134_0",
+  "files": [
+    "include/X11/Xauth.h",
+    "lib/libXau.6.0.0.dylib",
+    "lib/libXau.6.dylib",
+    "lib/libXau.dylib",
+    "lib/pkgconfig/xau.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "include/X11/Xauth.h",
+        "path_type": "hardlink",
+        "sha256": "f1932c6db3bac9f4f39bdd03c75702c1ace8813410f6216f8d9fe291f0f7e2f8",
+        "sha256_in_prefix": "f1932c6db3bac9f4f39bdd03c75702c1ace8813410f6216f8d9fe291f0f7e2f8",
+        "size_in_bytes": 3818
+      },
+      {
+        "_path": "lib/libXau.6.0.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "sha256_in_prefix": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "size_in_bytes": 14320
+      },
+      {
+        "_path": "lib/libXau.6.dylib",
+        "path_type": "softlink",
+        "sha256": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "sha256_in_prefix": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "size_in_bytes": 14320
+      },
+      {
+        "_path": "lib/libXau.dylib",
+        "path_type": "softlink",
+        "sha256": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "sha256_in_prefix": "9fab7db14a2e2fe3245d7eb520775be656f439a3b297a0126dc2142bc1201e69",
+        "size_in_bytes": 14320
+      },
+      {
+        "_path": "lib/pkgconfig/xau.pc",
+        "path_type": "hardlink",
+        "sha256": "7b8965e24faf1113a1240b8ccb2a160cb2f6b8a599f233f2ca39e218b2c59f64",
+        "sha256_in_prefix": "55fb4a818eb36117b33c0a9c329e97ebd50535ee4d52e4ea426071a99e604598",
+        "size_in_bytes": 271
+      }
+    ]
+  },
+  "link": null,
+  "requested_spec": null
+}

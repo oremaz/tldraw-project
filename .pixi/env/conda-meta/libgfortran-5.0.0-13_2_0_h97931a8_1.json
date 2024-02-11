@@ -1,0 +1,29 @@
+{
+  "arch": "x86_64",
+  "build": "13_2_0_h97931a8_1",
+  "build_number": 1,
+  "depends": [
+    "libgfortran5 13.2.0 h2873a65_1"
+  ],
+  "license": "GPL-3.0-only WITH GCC-exception-3.1",
+  "license_family": "GPL",
+  "md5": "b55fd11ab6318a6e67ac191309701d5a",
+  "name": "libgfortran",
+  "platform": "osx",
+  "sha256": "5be1a59316e5063f4e6492ea86d692600a7b8e32caa25269f8a3b386a028e5f3",
+  "size": 109855,
+  "subdir": "osx-64",
+  "timestamp": 1694165674845,
+  "version": "5.0.0",
+  "fn": "libgfortran-5.0.0-13_2_0_h97931a8_1.conda",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libgfortran-5.0.0-13_2_0_h97931a8_1.conda",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/libgfortran-5.0.0-13_2_0_h97931a8_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": null,
+  "requested_spec": null
+}

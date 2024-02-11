@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "build": "hc929b4f_1001",
+  "build_number": 1001,
+  "depends": [],
+  "license": "MIT",
+  "license_family": "MIT",
+  "md5": "addd19059de62181cd11ae8f4ef26084",
+  "name": "pthread-stubs",
+  "platform": "osx",
+  "sha256": "6e3900bb241bcdec513d4e7180fe9a19186c1a38f0b4080ed619d26014222c53",
+  "size": 5653,
+  "subdir": "osx-64",
+  "timestamp": 1606147699844,
+  "version": "0.4",
+  "fn": "pthread-stubs-0.4-hc929b4f_1001.tar.bz2",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/pthread-stubs-0.4-hc929b4f_1001.tar.bz2",
+  "channel": "https://conda.anaconda.org/conda-forge",
+  "extracted_package_dir": "/Users/ethanorel/Library/Caches/rattler/cache/pkgs/pthread-stubs-0.4-hc929b4f_1001",
+  "files": [
+    "lib/pkgconfig/pthread-stubs.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/pkgconfig/pthread-stubs.pc",
+        "path_type": "hardlink",
+        "sha256": "bcf0fcdcda4e45d63f590e9a532564c520e2741e9b7d633e30d0c0c1759d851d",
+        "sha256_in_prefix": "c3d4180bdb02eeddba880804d55fa3b561d594850a71ba4045c06515acd39305",
+        "size_in_bytes": 276
+      }
+    ]
+  },
+  "link": null,
+  "requested_spec": null
+}

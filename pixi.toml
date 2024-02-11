@@ -19,3 +19,6 @@ scipy = "1.11.4.*"
 
 [pypi-dependencies]
 perfect-freehand = "==1.2.0"
+
+[system-requirements]
+macos = "10.13.6"
